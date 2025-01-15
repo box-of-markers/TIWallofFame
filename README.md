@@ -65,9 +65,3 @@ Michael S | mikie1650 | spring 2024
 Dylan B | Dback50 | Spring 2024
 Bradley H | bh123-4 | Spring 2024
 Alex J | slippy | Spring 2024
-<<<<<<< HEAD
-Alex P | SapperMen3000 | Spring 2025
-=======
-Alexie N | AlexieN-14 | Spring 2024
-Matthew Ahwal | DeroPlayz | Spring 2025
->>>>>>> e2c9b6f955de0fa085b986269f22ef40e1205ad9
